@@ -10,4 +10,4 @@ Please fill the request form (registerform.docx) and send it to majvaf@gmail.com
 
 If you find this dataset useful in your research, please use the following BibTeX entry for citation.
 
-@misc{xxx, author = {Majid Vafaeezadeh, Hamid Behnam, Ali Hosseinsabet, Parisa Gifani }, title = {Automatic Morphological Classification of Mitral Valve Diseases in Echocardiographic Images Based on Explainable Deep Learning Methods }, howpublished = {\url{xxx}}, year = {2021} }
+@misc{xxx, author = {Majid Vafaeezadeh, Hamid Behnam, Ali Hosseinsabet, Parisa Gifani }, title = {xxx }, howpublished = {\url{xxx}}, year = {2021} }
